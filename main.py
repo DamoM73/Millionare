@@ -28,6 +28,7 @@ root.title(SCREEN_TITLE)
 root.wm_resizable(False, False)
 root.configure(background = "Steel blue")
 
+
 #-- Create frames for different sections
 # copy the code below for each section in your GUI
 
