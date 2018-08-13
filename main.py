@@ -29,6 +29,7 @@ root.title(SCREEN_TITLE)
 root.wm_resizable(False, False)
 root.configure(background = BK_COLOUR)
 
+
 #-- Create frames for different sections
 
 # Title Frame
